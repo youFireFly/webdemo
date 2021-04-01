@@ -8,6 +8,7 @@ public class WebdemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(WebdemoApplication.class, args);
+        System.out.println("lala");
     }
 
 }
